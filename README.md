@@ -1,2 +1,2 @@
 # DropzoneJSFileUpload
-File Upload using Dropzone.js in ASP.NET MVC
+File Upload using Dropzone.js in ASP.NET MVC 
